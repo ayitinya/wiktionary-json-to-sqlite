@@ -1,0 +1,199 @@
+{
+    "pos": "name",
+    "head_templates": [
+        {
+            "name": "en-proper noun",
+            "args": {},
+            "expansion": "Bliss"
+        }
+    ],
+    "word": "Bliss",
+    "lang": "English",
+    "lang_code": "en",
+    "sounds": [
+        {
+            "ipa": "/blɪs/"
+        },
+        {
+            "rhymes": "-ɪs"
+        }
+    ],
+    "senses": [
+        {
+            "links": [
+                [
+                    "surname",
+                    "surname"
+                ]
+            ],
+            "glosses": [
+                "An English surname transferred from the nickname originating as a nickname."
+            ],
+            "id": "Bliss-en-name-QZYPz4bm"
+        },
+        {
+            "examples": [
+                {
+                    "text": "\"Mother doesn't seem to especially like her little granddaughter as it is, even named 'Edna Louise'. D'you think she's going to like her better, named 'Bliss' like some sexpot pop star or some Indian-mystic asshole-charlatan?\"\nBetsey winced. \"Bliss\" was a beautiful name!",
+                    "ref": "2008, Joyce Carol Oates, My Sister, My Love, HarperCollins, page 97",
+                    "type": "quotation"
+                }
+            ],
+            "links": [
+                [
+                    "given name",
+                    "given name"
+                ]
+            ],
+            "raw_glosses": [
+                "(rare) A unisex given name from English."
+            ],
+            "glosses": [
+                "A unisex given name from English."
+            ],
+            "tags": [
+                "rare"
+            ],
+            "id": "Bliss-en-name-NM8lzWaD",
+            "categories": [
+                {
+                    "name": "English female given names",
+                    "kind": "topical",
+                    "parents": [
+                        "Female given names",
+                        "Given names",
+                        "Names",
+                        "All sets",
+                        "List of sets",
+                        "Proper nouns",
+                        "Terms by semantic function",
+                        "All topics",
+                        "Fundamental",
+                        "Nouns",
+                        "Lemmas"
+                    ],
+                    "source": "w+disamb",
+                    "_dis": "10 83 3 3 1"
+                },
+                {
+                    "name": "English male given names",
+                    "kind": "topical",
+                    "parents": [
+                        "Male given names",
+                        "Given names",
+                        "Names",
+                        "All sets",
+                        "List of sets",
+                        "Proper nouns",
+                        "Terms by semantic function",
+                        "All topics",
+                        "Fundamental",
+                        "Nouns",
+                        "Lemmas"
+                    ],
+                    "source": "w+disamb",
+                    "_dis": "10 83 3 3 1"
+                },
+                {
+                    "name": "English unisex given names",
+                    "kind": "topical",
+                    "parents": [
+                        "Unisex given names",
+                        "Given names",
+                        "Names",
+                        "All sets",
+                        "List of sets",
+                        "Proper nouns",
+                        "Terms by semantic function",
+                        "All topics",
+                        "Fundamental",
+                        "Nouns",
+                        "Lemmas"
+                    ],
+                    "source": "w+disamb",
+                    "_dis": "9 86 2 2 1"
+                }
+            ]
+        },
+        {
+            "links": [
+                [
+                    "computing",
+                    "computing#Noun"
+                ],
+                [
+                    "programming language",
+                    "programming language"
+                ],
+                [
+                    "systems programming",
+                    "systems programming"
+                ],
+                [
+                    "C",
+                    "C"
+                ],
+                [
+                    "B",
+                    "B"
+                ],
+                [
+                    "BCPL",
+                    "BCPL"
+                ]
+            ],
+            "raw_glosses": [
+                "(computing) a programming language used for systems programming primarily on computers produced by Digital Equipment Corporation. Bliss is a parallel language to C, both being derived from B and BCPL"
+            ],
+            "topics": [
+                "computing",
+                "engineering",
+                "mathematics",
+                "natural-sciences",
+                "physical-sciences",
+                "sciences"
+            ],
+            "glosses": [
+                "a programming language used for systems programming primarily on computers produced by Digital Equipment Corporation. Bliss is a parallel language to C, both being derived from B and BCPL"
+            ],
+            "id": "Bliss-en-name-ykAA~VFH",
+            "synonyms": [
+                {
+                    "tags": [
+                        "surname"
+                    ],
+                    "word": "Blish",
+                    "_dis1": "11 22 58 6 3"
+                }
+            ]
+        },
+        {
+            "links": [
+                [
+                    "ghost town",
+                    "ghost town"
+                ],
+                [
+                    "California",
+                    "California#English"
+                ]
+            ],
+            "glosses": [
+                "A ghost town in California."
+            ],
+            "id": "Bliss-en-name-eWzDwYCC"
+        },
+        {
+            "links": [
+                [
+                    "Idaho",
+                    "Idaho#English"
+                ]
+            ],
+            "glosses": [
+                "A city and town in Idaho."
+            ],
+            "id": "Bliss-en-name-Kuen8qCG"
+        }
+    ]
+}
